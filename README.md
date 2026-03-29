@@ -3,7 +3,9 @@
 ## 👨‍💻 Student Details
 
 **Name:** Sahil Singh
+
 **Registration Number:** 24BAI10461
+
 **Slot:** E11 + E12
 
 ---
